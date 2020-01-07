@@ -1,0 +1,36 @@
+{
+  "name": "backend0",
+  "version": "1.0.0",
+  "description": "training",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "arwy syahputra",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/joi": "^16.1.8",
+    "airapi": "^0.1.0",
+    "airbnbapijs": "^0.10.5",
+    "bcrypt": "^3.0.7",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "cloudinary": "^1.18.1",
+    "consolidate": "^0.15.1",
+    "core-util-is": "^1.0.2",
+    "cors": "^2.8.5",
+    "crypto-js": "^3.1.9-1",
+    "dotenv": "^8.2.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.1.6",
+    "helmet": "^3.21.2",
+    "jsonwebtoken": "^8.5.1",
+    "mysql": "^2.17.1",
+    "paypal-rest-sdk": "^1.8.1",
+    "uuid": "^3.3.3"
+  },
+  "engines": {
+    "node": "12.x"
+  }
+}
