@@ -12,7 +12,7 @@
     "@hapi/joi": "^16.1.8",
     "airapi": "^0.1.0",
     "airbnbapijs": "^0.10.5",
-    "bcrypt": "^3.0.7",
+    "bcrypt": "^5.0.0",
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.19.0",
     "cloudinary": "^1.18.1",
